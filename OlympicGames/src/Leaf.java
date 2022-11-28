@@ -1,6 +1,6 @@
 
 public class Leaf implements Component {
-
+//hallo
 	String name;
 	String team;
 	int medals;
@@ -18,7 +18,9 @@ public class Leaf implements Component {
 	public void showName() {
 		System.out.println("Nation: " + team);
 		System.out.println("Team: " + name + ", " + "Number of Athletes: " + members + ", " + "Number of Medals: " + medals);
+		System.out.println("");
 	}
+	
 
 	@Override
 	public void showOlympics() {
