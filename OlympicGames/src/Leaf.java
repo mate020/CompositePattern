@@ -1,6 +1,6 @@
 
 public class Leaf implements Component {
-//hallo
+
 	String name;
 	String team;
 	int medals;

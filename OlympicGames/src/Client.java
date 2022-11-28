@@ -66,7 +66,7 @@ public class Client {
 		System.out.println("");
 		asiaTeam.showName(); //4c
 		System.out.println("");
-//		olympicsTeams.showOlympics(); //4d
+		olympicsTeams.showOlympics(); //4d
 		
 
 	}
